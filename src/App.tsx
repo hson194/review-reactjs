@@ -1,9 +1,9 @@
-import { UserCard } from './user-card/UserCard'
+import { NameChangingDefaultValue } from './hooks/use-state/NameChangingDefaultValue'
 
 function App() {
   return (
     <>
-      <UserCard />
+      <NameChangingDefaultValue />
     </>
   )
 }
