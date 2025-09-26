@@ -1,9 +1,9 @@
-import { AgeChanging } from './hooks/use-state/AgeChanging'
+import { Counter } from './hooks/use-state/Counter'
 
 function App() {
   return (
     <>
-      <AgeChanging />
+      <Counter />
     </>
   )
 }
