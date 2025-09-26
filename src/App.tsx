@@ -1,9 +1,9 @@
-import { NameChangingDefaultValue } from './hooks/use-state/NameChangingDefaultValue'
+import { AgeChanging } from './hooks/use-state/AgeChanging'
 
 function App() {
   return (
     <>
-      <NameChangingDefaultValue />
+      <AgeChanging />
     </>
   )
 }
