@@ -1,9 +1,9 @@
-import { Counter } from './hooks/use-state/Counter'
+import { Person } from './hooks/use-state/Person'
 
 function App() {
   return (
     <>
-      <Counter />
+      <Person />
     </>
   )
 }
