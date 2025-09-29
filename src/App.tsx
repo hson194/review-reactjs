@@ -1,9 +1,9 @@
-import CounterClass from './hooks/use-state/CounterClass'
+import PersonClass from './hooks/use-state/PersonClass'
 
 function App() {
   return (
     <>
-      <CounterClass />
+      <PersonClass />
     </>
   )
 }
