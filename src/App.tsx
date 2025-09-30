@@ -1,9 +1,9 @@
-import PersonClass from './hooks/use-state/PersonClass'
+import {InputEvent} from './hooks/use-state/InputEvent'
 
 function App() {
   return (
     <>
-      <PersonClass />
+      <InputEvent />
     </>
   )
 }
