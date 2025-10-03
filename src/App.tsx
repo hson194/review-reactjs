@@ -1,9 +1,9 @@
-import {InputEvent} from './hooks/use-state/InputEvent'
+import {ArrayState} from './hooks/use-state/ArrayState'
 
 function App() {
   return (
     <>
-      <InputEvent />
+      <ArrayState />
     </>
   )
 }
