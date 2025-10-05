@@ -1,9 +1,9 @@
-import {ArrayState} from './hooks/use-state/ArrayState'
+import NameAndAgeClass from './hooks/use-state/NameAndAgeClass'
 
 function App() {
   return (
     <>
-      <ArrayState />
+      <NameAndAgeClass />
     </>
   )
 }
