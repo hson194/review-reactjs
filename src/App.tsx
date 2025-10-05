@@ -1,9 +1,9 @@
-import NameAndAgeClass from './hooks/use-state/NameAndAgeClass'
+import {VirtualDOMExplaination} from './virtual-dom/VirtualDOMExplaination'
 
 function App() {
   return (
     <>
-      <NameAndAgeClass />
+      <VirtualDOMExplaination />
     </>
   )
 }
