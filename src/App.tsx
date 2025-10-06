@@ -1,9 +1,9 @@
-import {VirtualDOMExplaination} from './virtual-dom/VirtualDOMExplaination'
+import {LogWhenNameAgeChanging} from './hooks/use-effect/LogWhenNameAgeChanging'
 
 function App() {
   return (
     <>
-      <VirtualDOMExplaination />
+      <LogWhenNameAgeChanging />
     </>
   )
 }
